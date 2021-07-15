@@ -136,22 +136,14 @@
           p.mb-0 El escudo y la bandera del SENA fueron diseñados cuando se fundó́ nuestra institución y reflejan los tres sectores económicos dentro de los cuales operamos:
     
     .row.justify-content-center.align-items-center.mb-4
-      .col-6.col-lg-3.mb-4(data-aos="flip-left")
+      .col-lg-10.mb-4(data-aos="flip-left")
         figure
-          img(src='@/assets/curso/img09.png' alt='Escudo')
-      .col-9.col-lg-5(data-aos="fade-right")
-        h3.ms-4 Escudo
-        p.FirstOne El piñón, representativo del sector industrial.
-        p.FirstTwo El caduceo, asociado al de comercio y servicios.
-        p.FirstTree El café, ligado al sector primario y extractivo del país.
+          img(src='@/assets/curso/img09.svg' alt='Escudo')
     
     .row.justify-content-center.align-items-center.mb-4
-      .col-6.col-lg-3.mb-4(data-aos="flip-left")
+      .col-lg-10.mb-4(data-aos="flip-left")
         figure
-          img(src='@/assets/curso/img10.png' alt='Bandera')
-      .col-9.col-lg-5(data-aos="fade-right")
-        h3 Bandera
-        p Su color de fondo es totalmente blanco y en el centro de ella encontramos el escudo de la institución. 
+          img(src='@/assets/curso/img10.svg' alt='Bandera')
 
     .row.justify-content-center
       .col-lg-10
