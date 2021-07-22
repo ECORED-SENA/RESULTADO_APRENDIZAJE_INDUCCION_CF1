@@ -69,7 +69,7 @@
       .col-lg-10
         figure.mb-3
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/U_exqn8Khpk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/Tc2Zyp1nWAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     Separador
 
@@ -164,7 +164,7 @@
       .col-lg-10
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/OP4z_14gFU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/VCgWoplELpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     Separador
     
@@ -196,7 +196,7 @@
       .col-lg-10
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/N410esgqADc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/LqPzZSco-Ns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     Separador
 
